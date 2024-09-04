@@ -1,0 +1,29 @@
+{
+  "name": "chainforgetask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "email-existence": "^0.1.6",
+    "email-validator": "^2.0.4",
+    "email-verifier": "^0.4.1",
+    "emailjs": "^4.0.3",
+    "express": "^4.19.2",
+    "gmail-validation": "^0.0.4",
+    "jsonwebtoken": "^9.0.2",
+    "mail-exists": "^1.1.0",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
